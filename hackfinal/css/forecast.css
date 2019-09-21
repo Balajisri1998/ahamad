@@ -1,0 +1,110 @@
+.custom-fluid{
+			padding: 0px;
+			position: relative;
+		}
+		.custom-navbar{
+			background:  #092247;
+			color: white;
+			height: 80px;
+			border-radius: 0px;
+		}
+		.logout{
+			color:white;
+			background: transparent;
+		}
+		.logout:hover{
+			color: #092247;
+			background: white !important;
+			border-radius: 5px;
+		}
+		.margin-top-20{
+			margin-top: 10px;
+		}
+		.font-20{
+			font-size: 18px;
+		}
+		.font-25{
+			font-size: 25px;
+		}
+		.custom-navbar-brand{
+			padding-top: 6px;
+
+		}
+		.text-decoration{
+			margin-top: 10000px;
+		}
+		.first{
+			position: absolute;
+			
+		}
+		.margin-top-100{
+			margin-top: 100px;
+		}
+		.margin-top-25{
+			margin-top: 22px;
+			margin-right: 10px;
+			font-size: 25px;
+		}
+		.block{
+			display: inline-block;
+		}
+		.float-right{
+			float: right;
+		}
+		.float-clear{
+			clear: both;
+		}
+		.ul{
+			position: relative;
+		}
+		.ul li{
+			text-decoration: none;
+			list-style: none;
+			cursor: pointer;
+		}
+		.ul a li{
+			text-decoration: none;
+			list-style: none;
+			color: white;
+			font-size: 22px;
+			font-weight: bold;
+		}
+		.li{
+			height: 60px;
+			width: 200px;
+			background: black;
+			color: white;
+			margin-right: 20px;
+			border-radius: 20px;
+		}
+		.center-block ul{
+			position:relative;
+			left:50%;
+			float:left;
+			margin-right:0;
+			margin-left:0;
+		}
+		.center-block li {
+			position:relative;
+			right:50%;
+			float:left;
+			margin:0;
+			margin-right: 10px;
+			padding-top: 15px;
+			list-style:none
+		}
+		.custom-collapse{
+			background: #092247;
+			color: white;
+			margin-top: 5px;
+			margin-right: 0px;
+		}
+		.custom-toggle{
+			margin-top: 20px;
+		}
+		/*.highlight{
+			background: #cba004;
+		}
+		.highlight .a{
+			color: red;
+		}*/

@@ -1,0 +1,130 @@
+		*{
+			font-size: 20px !important;
+		}
+		nav *{
+			font-size: 20px !important;
+		}
+		body{
+			background: black;
+		}
+		
+		.hoverwhite a:hover{
+			color: white;
+			background: black !important;
+		}
+		.hoverwhite a{
+			color: #cba004;
+		}
+		.textyellow{
+			color: #cba004;
+		}
+		.margin-left-400{
+			margin-left: 400px;
+		}
+		.margin-top-100{
+			margin-top: 100px !important;
+		}
+		.forecast{
+			height: 350px;
+			margin-top: 100px !important;
+		}
+		.data{
+			height: 350px;
+			margin-top: 100px !important;
+		}.api{
+			height: 350px;
+			margin-top: 100px !important;
+		}
+		.forecast *{
+			color: red;
+			font-size: 20px !important; 
+		}
+		.data *{
+			color: red;
+			font-size: 20px !important; 
+		}
+		.api *{
+			color: red;
+			font-size: 20px !important; 
+		}
+		.border{
+			border: 3px solid #cba004;
+			border-radius: 5px;	
+		}
+		.padding-top-100{
+			padding-top: 70px;
+		}
+		.forecast .row .form-group label{
+			color: red;
+		}
+		.forecast .row .form-group input{
+			color: black;
+		}
+		.forecast .row .form-group .pick{
+			color: red;
+		}
+		.forecast .row .form-group select{
+			color: black;
+		}
+		.forecast .row .form-group select *{
+			color: black;
+		}
+		.custom-row{
+			margin: 0px;
+		}
+		.data .row .form-group label{
+			color: red;
+		}
+		.data .row .form-group input{
+			color: black;
+		}
+		.data .row .form-group .pick{
+			color: red;
+		}
+		.data .row .form-group select{
+			color: black;
+		}
+		.data .row .form-group select *{
+			color: black;
+		}
+		.api .row .form-group label{
+			color: red;
+		}
+		.api .row .form-group input{
+			color: black;
+		}
+		.api .row .form-group .pick{
+			color: red;
+		}
+		.api .row .form-group select{
+			color: black;
+		}
+		.api .row .form-group select *{
+			color: black;
+		}
+		.font-20{
+			font-size: 30px !important;
+			color: red;
+		}
+		.custom-button{
+			font-size: 15px !important;
+		}
+		.padding-top-120{
+			padding-top: 100px;
+		}
+		.margin-bottom-30{
+			margin-bottom: 30px;
+		}
+		.padding-top-20{
+			padding-top: 20px;
+		}
+		.hidden{
+			display: none;
+		}
+		.show{
+			display: inline;
+		}
+		.stat *{
+			color: red;
+			font-size: 30px !important;
+		}

@@ -1,0 +1,5 @@
+ssh -i "hackathon.pem" ec2-user@ec2-3-91-244-72.compute-1.amazonaws.com
+
+
+
+scp -i "hackathon.pem" -p kli_model.py kli_data.csv ec2-user@ec2-3-91-244-72.compute-1.amazonaws.com:/home/ec2-user/bala/
